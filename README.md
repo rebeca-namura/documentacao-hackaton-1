@@ -1,4 +1,4 @@
-# **🎯 Inteli - Hackathon Onboarding 2025 - Exemplo**
+# **🎯 Team Up**
 
 
 
@@ -174,10 +174,8 @@ Observação: Tem excelente relação com o Diego, colaborando frequentemente pa
 
 
 
-## **📚 Bases de Conhecimento** 
 
-
-### **📖 Planos Futuros:** 
+## **📖 Planos Futuros:** 
 - Tornar o Agente apropriado para ler planilhas com o feedback de vários colaboradores
 - Utilizar o histórico da conversa e resultado dos líderes para aprimorar as próximas formações
 - Dinamizar o processo de coleta de dados membros de um possível equipe incrementando a IA
